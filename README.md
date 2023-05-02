@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on LEVEE<br>🌱 I’m currently learning React Native<br>💬 Ask me about anything<br>⚡ Fun fact, I love bakery
 
+![Codewars](https://www.codewars.com/users/gustavoaroberto/badges/small)
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/gustavoaroberto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-a-roberto) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gustavoa_roberto_48620) 
